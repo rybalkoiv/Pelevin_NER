@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==2.2.6
+matplotlib==3.10.1
+scipy==1.13.1
+seaborn==0.13.2
+spacy==3.8.14
+natasha==1.6.0
+requests==2.34.2
+Wikipedia-API==0.15.0
+ru_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_lg-3.8.0/ru_core_news_lg-3.8.0-py3-none-any.whl#sha256=90bd584be86772b647e1b15cdc62e09d3a7182284ee23da95e19c2bf71aa0189
